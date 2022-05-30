@@ -2,9 +2,7 @@ package com.example.u4_sms.dao
 
 import com.example.u4_sms.model.SmsMessageModel
 import com.google.firebase.database.ktx.database
-import com.google.firebase.database.ktx.getValue
 import com.google.firebase.ktx.Firebase
-import kotlinx.coroutines.tasks.await
 
 class DataBaseHelper {
 
