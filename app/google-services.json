@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "257562777792",
+    "firebase_url": "https://android-app-c7e6e-default-rtdb.firebaseio.com",
+    "project_id": "android-app-c7e6e",
+    "storage_bucket": "android-app-c7e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257562777792:android:9c848a4d4ad482a69b3525",
+        "android_client_info": {
+          "package_name": "com.example.practica_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257562777792-9u0hknd4dj8rlbug3bec57r47cb50fsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCua4RL5W68TRnIbH-IC4DB3qQ9jT-EdeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257562777792-9u0hknd4dj8rlbug3bec57r47cb50fsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257562777792:android:ccf56e7b08bce8df9b3525",
+        "android_client_info": {
+          "package_name": "com.example.u4_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257562777792-9u0hknd4dj8rlbug3bec57r47cb50fsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCua4RL5W68TRnIbH-IC4DB3qQ9jT-EdeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257562777792-9u0hknd4dj8rlbug3bec57r47cb50fsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
