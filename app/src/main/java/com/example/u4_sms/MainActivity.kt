@@ -234,7 +234,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun writeToCsvFile(file : File, smsMessageList : ArrayList<SmsMessageModel>) {
-        val writer = BufferedWriter(file.bufferedWriter());
+        val writer = BufferedWriter(file.bufferedWriter())
 
         val csvPrinter = CSVPrinter(writer, CSVFormat.DEFAULT
             .withHeader("Numero de telefono", "Fecha", "Mensaje"));
