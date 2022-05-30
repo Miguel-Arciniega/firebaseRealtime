@@ -11,7 +11,8 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Mensajes SMS Recibidos"
+        android:text="ALMACÉN DE SMS"
+        android:textAlignment="center"
         android:textSize="24sp" />
 
     <Button
@@ -37,6 +38,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Todos los mensajes"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:background="#03A9F4"
         android:textSize="20sp" />
 
     <ListView
@@ -49,6 +53,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Mensajes Seleccionados"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:background="#03A9F4"
         android:textSize="20sp" />
 
     <ListView

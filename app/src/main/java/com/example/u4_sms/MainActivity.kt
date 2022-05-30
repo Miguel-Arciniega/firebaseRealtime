@@ -219,7 +219,6 @@ class MainActivity : AppCompatActivity() {
             e.printStackTrace()
 
         }
-
     }
 
     private fun createCsvDocument(smsMessageList : ArrayList<SmsMessageModel>) {
